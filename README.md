@@ -1,19 +1,34 @@
 # Tequila Concierge – MVP
 
+![License](https://img.shields.io/badge/license-MIT-yellow)
+![Status](https://img.shields.io/badge/status-live-brightgreen)
+![Built with PHP](https://img.shields.io/badge/built%20with-PHP-blue)
+![Last Updated](https://img.shields.io/github/last-commit/tayeloluejire/tequila-concierge-mvp)
+
 ![Tequila Concierge Screenshot](Tequla_concierge_home.png)
 
 [Live Demo →](https://tequilaconciergehub.com)
 
-Tequila Concierge is an AI-powered TravelTech MVP that curates live event tickets, activities, and local experiences from global platforms like Tiqets, TicketNetwork, Eventbrite, and more. It offers a seamless frontend discovery interface backed by automation and real-time data ingestion.
+**Tequila Concierge** is an AI-powered TravelTech MVP that curates live event tickets, activities, and local experiences from global platforms like Tiqets, TicketNetwork, Eventbrite, and more. It offers a seamless frontend discovery interface backed by automation and real-time data ingestion.
 
 ---
 
 ## 🚀 What It Does
 
-- Curates **real-time event listings** and **local attractions** globally
-- Embeds **direct ticket purchasing** via affiliate platforms
-- Uses **cron automation** to sync and update events dynamically
-- Includes a prototype of an **AI concierge assistant** for smarter trip planning
+- Curates **real-time event listings** and **local attractions** globally  
+- Embeds **direct ticket purchasing** via affiliate platforms  
+- Uses **cron automation** to sync and update events dynamically  
+- Includes a prototype of an **AI concierge assistant** for smarter trip planning  
+
+---
+
+## 🧰 Tech Stack
+
+- PHP + HTML (frontend)  
+- Cron Jobs (backend automation)  
+- Custom RSS-to-JSON and API scripts  
+- SEO + Open Graph Optimization  
+- Responsive design (mobile-first)  
 
 ---
 
@@ -21,52 +36,29 @@ Tequila Concierge is an AI-powered TravelTech MVP that curates live event ticket
 
 I led the MVP end-to-end across:
 
-- **Strategy & Positioning**: Conceptualized the brand and product-market fit
-- **Design & Branding**: Created UI mockups, brand colors, and user flows
-- **Frontend Development**: Built lightweight, mobile-friendly PHP/HTML pages
-- **Backend Automation**: Developed RSS-to-JSON scripts and scheduled them via `cron`
-- **API Integrations**: Connected live feeds from Tiqets, TicketNetwork, and Eventbrite
-- **SEO & Meta Optimization**: Set up Open Graph tags and metadata for content sharing
+- **Strategy & Positioning**: Conceptualized the brand and product-market fit  
+- **Design & Branding**: Created UI mockups, brand colors, and user flows  
+- **Frontend Development**: Built lightweight, mobile-friendly PHP/HTML pages  
+- **Backend Automation**: Developed RSS-to-JSON scripts and scheduled them via `cron`  
+- **API Integrations**: Connected live feeds from Tiqets, TicketNetwork, and Eventbrite  
+- **SEO & Meta Optimization**: Set up Open Graph tags and metadata for content sharing  
 
 ---
 
-## 🛠️ Technologies Used
+## 🔗 Quick Links
 
-- **PHP** – Core backend scripting
-- **RSS Feeds & JSON** – Parsing and publishing real-time data
-- **Cron Jobs (Linux)** – Scheduled background scripts for automation
-- **HTML/CSS/JS** – Frontend structure and interaction
-- **Open Graph / SEO Tags** – Social metadata and discoverability
+- 🌐 [Live Demo](https://tequilaconciergehub.com)  
+- 👤 [My LinkedIn](https://www.linkedin.com/in/taiwo-hassan-13867411b)  
+- 🎯 [Other Projects](https://github.com/tayeloluejire)
 
 ---
 
-## 📸 Screenshots
+## 🧠 Inspiration
 
-| Homepage | AI Bot Overlay |
-|----------|----------------|
-| ![Home](Tequla_concierge_home.png) | ![Bot](Tequla_concierge_home+AI-bot.png) |
+This MVP was designed to bridge the gap between travelers and authentic local experiences — combining automation, affiliate monetization, and AI for global scalability.
 
 ---
 
-## 🌐 Live Preview
+## 📄 License
 
-👉 [https://tequilaconciergehub.com](https://tequilaconciergehub.com)
-
----
-
-## 📦 Upcoming Features
-
-- Full integration with OpenAI/Gemini chatbot
-- Dynamic user accounts for personalized trip suggestions
-- Embedded checkout via affiliate partners
-- Data dashboard for vendor analytics
-
----
-
-## 📩 Contact
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/taiwo-hassan-13867411b) or reach out via email: tayeloluejirehassan@gmail.com
-
----
-
-> © 2025 Taiwo Hassan – For demonstration and portfolio purposes only.
+MIT License © 2025 Taiwo Hassan  
