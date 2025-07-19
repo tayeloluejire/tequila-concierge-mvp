@@ -4,10 +4,12 @@
 ![Status](https://img.shields.io/badge/status-live-brightgreen)
 ![Built with PHP](https://img.shields.io/badge/built%20with-PHP-blue)
 ![Last Updated](https://img.shields.io/github/last-commit/tayeloluejire/tequila-concierge-mvp)
+![GitHub Repo Stars](https://img.shields.io/github/stars/tayeloluejire/tequila-concierge-mvp?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/tayeloluejire/tequila-concierge-mvp?style=social)
 
-![Tequila Concierge Screenshot](Tequla_concierge_home.png)
+![Tequila Concierge Screenshot](Tequila_concierge_home.png)
 
-[Live Demo →](https://tequilaconciergehub.com)
+[🔗 Live Demo](https://tequilaconciergehub.com)
 
 **Tequila Concierge** is an AI-powered TravelTech MVP that curates live event tickets, activities, and local experiences from global platforms like Tiqets, TicketNetwork, Eventbrite, and more. It offers a seamless frontend discovery interface backed by automation and real-time data ingestion.
 
@@ -22,13 +24,24 @@
 
 ---
 
+## 🌟 Features
+
+- 🔎 AI-driven suggestions for live events and activities  
+- 🔗 Direct booking via affiliate links  
+- ⚙️ Automated updates with cron jobs  
+- 💬 AI concierge prototype  
+- 📱 Mobile-first, responsive UI  
+- 🔍 SEO & metadata optimized  
+
+---
+
 ## 🧰 Tech Stack
 
-- PHP + HTML (frontend)  
-- Cron Jobs (backend automation)  
-- Custom RSS-to-JSON and API scripts  
-- SEO + Open Graph Optimization  
-- Responsive design (mobile-first)  
+- **PHP + HTML** (frontend)
+- **Cron Jobs** (backend automation)
+- **Custom RSS-to-JSON + API scripts**
+- **SEO + Open Graph Optimization**
+- **Mobile-Responsive Design**
 
 ---
 
@@ -36,29 +49,19 @@
 
 I led the MVP end-to-end across:
 
-- **Strategy & Positioning**: Conceptualized the brand and product-market fit  
-- **Design & Branding**: Created UI mockups, brand colors, and user flows  
-- **Frontend Development**: Built lightweight, mobile-friendly PHP/HTML pages  
-- **Backend Automation**: Developed RSS-to-JSON scripts and scheduled them via `cron`  
-- **API Integrations**: Connected live feeds from Tiqets, TicketNetwork, and Eventbrite  
-- **SEO & Meta Optimization**: Set up Open Graph tags and metadata for content sharing  
+- 💡 Strategy & Positioning – conceptualized the product-market fit  
+- 🎨 Design & Branding – created UI mockups and brand assets  
+- 💻 Frontend Development – lightweight PHP/HTML interface  
+- ⚙️ Backend Automation – custom scripts scheduled via `cron`  
+- 🔌 API Integrations – Tiqets, TicketNetwork, Eventbrite  
+- 📈 SEO & Metadata – Open Graph & schema setup  
 
 ---
 
-## 🔗 Quick Links
+## 🛠️ Getting Started
 
-- 🌐 [Live Demo](https://tequilaconciergehub.com)  
-- 👤 [My LinkedIn](https://www.linkedin.com/in/taiwo-hassan-13867411b)  
-- 🎯 [Other Projects](https://github.com/tayeloluejire)
+To run the project locally:
 
----
-
-## 🧠 Inspiration
-
-This MVP was designed to bridge the gap between travelers and authentic local experiences — combining automation, affiliate monetization, and AI for global scalability.
-
----
-
-## 📄 License
-
-MIT License © 2025 Taiwo Hassan  
+```bash
+git clone https://github.com/tayeloluejire/tequila-concierge-mvp.git
+cd tequila-concierge-mvp
