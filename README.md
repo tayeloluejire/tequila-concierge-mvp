@@ -7,8 +7,6 @@
 ![GitHub Repo Stars](https://img.shields.io/github/stars/tayeloluejire/tequila-concierge-mvp?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/tayeloluejire/tequila-concierge-mvp?style=social)
 
-![Tequila Concierge Screenshot](Tequila_concierge_home.png)
-
 [🔗 Live Demo](https://tequilaconciergehub.com)
 
 **Tequila Concierge** is an AI-powered TravelTech MVP that curates live event tickets, activities, and local experiences from global platforms like Tiqets, TicketNetwork, Eventbrite, and more. It offers a seamless frontend discovery interface backed by automation and real-time data ingestion.
@@ -37,10 +35,10 @@
 
 ## 🧰 Tech Stack
 
-- **PHP + HTML** (frontend)
-- **Cron Jobs** (backend automation)
-- **Custom RSS-to-JSON + API scripts**
-- **SEO + Open Graph Optimization**
+- **PHP + HTML** (frontend)  
+- **Cron Jobs** (backend automation)  
+- **Custom RSS-to-JSON + API scripts**  
+- **SEO + Open Graph Optimization**  
 - **Mobile-Responsive Design**
 
 ---
@@ -49,12 +47,12 @@
 
 I led the MVP end-to-end across:
 
-- 💡 Strategy & Positioning – conceptualized the product-market fit  
-- 🎨 Design & Branding – created UI mockups and brand assets  
-- 💻 Frontend Development – lightweight PHP/HTML interface  
-- ⚙️ Backend Automation – custom scripts scheduled via `cron`  
-- 🔌 API Integrations – Tiqets, TicketNetwork, Eventbrite  
-- 📈 SEO & Metadata – Open Graph & schema setup  
+- 💡 **Strategy & Positioning** – conceptualized the product-market fit  
+- 🎨 **Design & Branding** – created UI mockups and brand assets  
+- 💻 **Frontend Development** – lightweight PHP/HTML interface  
+- ⚙️ **Backend Automation** – custom scripts scheduled via `cron`  
+- 🔌 **API Integrations** – Tiqets, TicketNetwork, Eventbrite  
+- 📈 **SEO & Metadata** – Open Graph & schema setup  
 
 ---
 
